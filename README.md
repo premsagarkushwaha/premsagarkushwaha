@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/premsagarkush11" target="blank"><img src="https://img.shields.io/twitter/follow/premsagarkush11?logo=twitter&style=for-the-badge" alt="premsagarkush11" /></a> </p>
 
 - 🌱 I’m currently learning **PHP, MySQL,Deep Learning, and Android Development**
+- TCS Admit card - https://drive.google.com/file/d/1G44QA2arod7g0J8r9-SunQvV4B9tJl9k/view?usp=sharing
 
 - 👨‍💻 All of my projects are available at [https://premsagarkushwaha.github.io/premsagar-kushwaha/](https://premsagarkushwaha.github.io/premsagar-kushwaha/)
 
